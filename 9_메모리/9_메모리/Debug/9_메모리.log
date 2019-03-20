@@ -1,0 +1,9 @@
+﻿  test.c
+c:\users\ggu\desktop\강경림\9_메모리\9_메모리\test.c(9): warning C4013: 'calloc' undefined; assuming extern returning int
+c:\users\ggu\desktop\강경림\9_메모리\9_메모리\test.c(25): warning C4013: 'realloc' undefined; assuming extern returning int
+c:\users\ggu\desktop\강경림\9_메모리\9_메모리\test.c(25): warning C4013: '_msize' undefined; assuming extern returning int
+c:\users\ggu\desktop\강경림\9_메모리\9_메모리\test.c(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\ggu\desktop\강경림\9_메모리\9_메모리\test.c(43): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  9_메모리.vcxproj -> C:\Users\GGU\Desktop\강경림\9_메모리\Debug\9_메모리.exe
+  9_메모리.vcxproj -> C:\Users\GGU\Desktop\강경림\9_메모리\Debug\9_메모리.pdb (Full PDB)
