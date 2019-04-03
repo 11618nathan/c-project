@@ -1,0 +1,15 @@
+﻿  ThreeDimArrayAccess.cpp
+c:\users\user\documents\visual studio 2015\projects\chapter16\chapter16\threedimarrayaccess.cpp(22): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\chapter16\chapter16\threedimarrayaccess.cpp(30): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\chapter16\chapter16\threedimarrayaccess.cpp(49): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\chapter16\chapter16\threedimarrayaccess.cpp(45): warning C4101: 'bTem' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\chapter16\chapter16\threedimarrayaccess.cpp(81): warning C4101: 'tem' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\chapter16\chapter16\threedimarrayaccess.cpp(72): warning C4101: 'arr' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\chapter16\chapter16\threedimarrayaccess.cpp(118): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2015\projects\chapter16\chapter16\threedimarrayaccess.cpp(130): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  Chapter16.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\Chapter16\Debug\Chapter16.exe
+  Chapter16.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\Chapter16\Debug\Chapter16.pdb (Full PDB)
