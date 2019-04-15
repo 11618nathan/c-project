@@ -1,0 +1,10 @@
+﻿  Word.c
+c:\users\kang kyounglim\onedrive\4학년 1학기\[장성훈] 자료구조와 프로그래밍 언어\자료구조\자료구조1\consoleword\word.c(37): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+c:\users\kang kyounglim\onedrive\4학년 1학기\[장성훈] 자료구조와 프로그래밍 언어\자료구조\자료구조1\consoleword\word.c(73): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+c:\users\kang kyounglim\onedrive\4학년 1학기\[장성훈] 자료구조와 프로그래밍 언어\자료구조\자료구조1\consoleword\word.c(80): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+c:\users\kang kyounglim\onedrive\4학년 1학기\[장성훈] 자료구조와 프로그래밍 언어\자료구조\자료구조1\consoleword\word.c(93): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  ConsoleWord.vcxproj -> C:\Users\Kang Kyounglim\OneDrive\4학년 1학기\[장성훈] 자료구조와 프로그래밍 언어\자료구조\자료구조1\Debug\ConsoleWord.exe
+  ConsoleWord.vcxproj -> C:\Users\Kang Kyounglim\OneDrive\4학년 1학기\[장성훈] 자료구조와 프로그래밍 언어\자료구조\자료구조1\Debug\ConsoleWord.pdb (Full PDB)
