@@ -1,0 +1,256 @@
+﻿  제어문.cpp
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(10): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(11): error C2059: 구문 오류: 'while'
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(12): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(12): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(16): error C2065: 'nSum': 선언되지 않은 식별자입니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(16): error C2440: '초기화 중': 'initializer list'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(16): note: 이니셜라이저에 요소가 너무 많습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(20): error C2059: 구문 오류: 'for'
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(20): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(20): error C2143: 구문 오류: ';'이(가) '<=' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(20): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(20): error C2086: 'int i': 재정의
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(10): note: 'i' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(20): error C2143: 구문 오류: ';'이(가) '++' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(20): error C2059: 구문 오류: ')'
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(21): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(21): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(24): error C2065: 'nSum': 선언되지 않은 식별자입니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(24): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(24): error C2374: 'printf': 재정의. 여러 번 초기화했습니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(16): note: 'printf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(24): error C2440: '초기화 중': 'initializer list'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(24): note: 이니셜라이저에 요소가 너무 많습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(32): error C2374: 'i': 재정의. 여러 번 초기화했습니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(10): note: 'i' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(33): error C2059: 구문 오류: 'for'
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(33): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(33): error C2143: 구문 오류: ';'이(가) '<=' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(33): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(33): error C2086: 'int i': 재정의
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(10): note: 'i' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(33): error C2143: 구문 오류: ';'이(가) '++' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(33): error C2059: 구문 오류: ')'
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(34): error C2143: 구문 오류: ';'이(가) '+=' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(34): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(34): error C2086: 'int nSum': 재정의
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(32): note: 'nSum' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(37): error C2059: 구문 오류: 'for'
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(41): error C2059: 구문 오류: 'while'
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(43): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(43): error C2374: 'printf': 재정의. 여러 번 초기화했습니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(16): note: 'printf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(43): error C2440: '초기화 중': 'initializer list'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(43): note: 이니셜라이저에 요소가 너무 많습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(46): error C2059: 구문 오류: 'for'
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(46): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(46): error C2059: 구문 오류: ')'
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(47): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(47): error C2374: 'printf': 재정의. 여러 번 초기화했습니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(16): note: 'printf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(47): error C2440: '초기화 중': 'const char [7]'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(47): note: 이 변환이 가능한 컨텍스트가 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(50): error C2059: 구문 오류: 'while'
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(55): error C2059: 구문 오류: 'while'
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(57): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(57): error C2374: 'printf': 재정의. 여러 번 초기화했습니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(16): note: 'printf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(57): error C2440: '초기화 중': 'initializer list'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(57): note: 이니셜라이저에 요소가 너무 많습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(60): error C2059: 구문 오류: 'for'
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(60): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(60): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(60): error C2374: 'printf': 재정의. 여러 번 초기화했습니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(16): note: 'printf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(60): error C2440: '초기화 중': 'const char [6]'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(60): note: 이 변환이 가능한 컨텍스트가 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(60): error C2059: 구문 오류: ')'
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(60): error C2440: '초기화 중': 'const char [7]'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(60): note: 이 변환이 가능한 컨텍스트가 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(63): error C2086: 'int i': 재정의
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(10): note: 'i' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(64): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(64): error C2440: '초기화 중': 'initializer list'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(64): note: 이니셜라이저에 요소가 너무 많습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(65): error C2059: 구문 오류: 'for'
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(65): error C2143: 구문 오류: ';'이(가) '<=' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(65): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(65): error C2086: 'int i': 재정의
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(10): note: 'i' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(65): error C2143: 구문 오류: ';'이(가) '++' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(65): error C2059: 구문 오류: ')'
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(69): error C2086: 'int i': 재정의
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(10): note: 'i' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(69): error C2374: 'nSum': 재정의. 여러 번 초기화했습니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(32): note: 'nSum' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(70): error C2059: 구문 오류: 'for'
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(70): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(70): error C2143: 구문 오류: ';'이(가) '>=' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(70): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(70): error C2086: 'int i': 재정의
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(10): note: 'i' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(70): error C2143: 구문 오류: ';'이(가) '++' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(70): error C2059: 구문 오류: ')'
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(74): error C2086: 'int i': 재정의
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(10): note: 'i' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(75): error C2059: 구문 오류: 'for'
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(75): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(75): error C2143: 구문 오류: ';'이(가) '<=' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(75): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(75): error C2086: 'int i': 재정의
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(10): note: 'i' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(75): error C2143: 구문 오류: ';'이(가) '++' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(75): error C2059: 구문 오류: ')'
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(76): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(76): error C2143: 구문 오류: ';'이(가) '<=' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(76): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(76): error C2086: 'int i': 재정의
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(10): note: 'i' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(76): error C2143: 구문 오류: ';'이(가) '++' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(76): error C2059: 구문 오류: ')'
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(84): error C2059: 구문 오류: '상수'
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(117): error C2059: 구문 오류: 'for'
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(117): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(117): error C2143: 구문 오류: ';'이(가) '<=' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(117): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(117): error C2086: 'int i': 재정의
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(10): note: 'i' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(117): error C2143: 구문 오류: ';'이(가) '+=' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(117): error C2059: 구문 오류: ')'
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(121): error C2059: 구문 오류: 'for'
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(121): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(121): error C2143: 구문 오류: ';'이(가) '>=' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(121): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(121): error C2371: 'ch': 재정의. 기본 형식이 다릅니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(120): note: 'ch' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(121): error C2143: 구문 오류: ';'이(가) '--' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(121): error C2059: 구문 오류: ')'
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(124): error C2374: 'i': 재정의. 여러 번 초기화했습니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(10): note: 'i' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(125): error C2059: 구문 오류: 'while'
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(126): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(126): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(131): error C2086: 'int i': 재정의
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(10): note: 'i' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(131): error C2086: 'int N': 재정의
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(63): note: 'N' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(132): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(132): error C2374: 'scanf': 재정의. 여러 번 초기화했습니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(64): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(132): error C2440: '초기화 중': 'initializer list'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(132): note: 이니셜라이저에 요소가 너무 많습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(133): error C2059: 구문 오류: 'for'
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(133): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(133): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(133): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(133): error C2086: 'int i': 재정의
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(10): note: 'i' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(133): error C2143: 구문 오류: ';'이(가) '++' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(133): error C2059: 구문 오류: ')'
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(134): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(134): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(139): error C2371: 'ch': 재정의. 기본 형식이 다릅니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(120): note: 'ch' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\제어문.cpp(139): fatal error C1003: 오류 수가 100개를 초과했습니다. 컴파일을 중지합니다.
+  연산자.cpp
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(15): error C2296: '%': 왼쪽 피연산자 형식으로 'double'을(를) 사용할 수 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(15): error C2297: '%': 오른쪽 피연산자 형식으로 'double'을(를) 사용할 수 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(20): error C2146: 구문 오류: ';'이(가) 'X' 식별자 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(20): error C2065: 'X': 선언되지 않은 식별자입니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(20): error C2143: 구문 오류: ';'이(가) '상수' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(20): error C2065: 'N': 선언되지 않은 식별자입니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(28): error C2065: 'ax2': 선언되지 않은 식별자입니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(28): error C2065: 'bx': 선언되지 않은 식별자입니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(36): error C2086: 'char ch': 재정의
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(23): note: 'ch' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(37): error C2371: 'F': 재정의. 기본 형식이 다릅니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(14): note: 'F' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(37): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(47): error C2374: 'N': 재정의. 여러 번 초기화했습니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(41): note: 'N' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(48): error C2105: '++'에 l-value가 필요합니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(52): error C2374: 'N': 재정의. 여러 번 초기화했습니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(41): note: 'N' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(53): error C2146: 구문 오류: ';'이(가) 'x' 식별자 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(53): error C2065: 'x': 선언되지 않은 식별자입니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(53): error C2143: 구문 오류: ';'이(가) '상수' 앞에 없습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(56): error C2086: 'char ch': 재정의
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(23): note: 'ch' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(62): error C2374: 'N': 재정의. 여러 번 초기화했습니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(41): note: 'N' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(70): error C2086: 'char ch': 재정의
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(23): note: 'ch' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(75): error C2374: 'N': 재정의. 여러 번 초기화했습니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(41): note: 'N' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(79): error C2086: 'char ch': 재정의
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(23): note: 'ch' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(33): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(38): warning C4477: 'printf' : 서식 문자열 '%c'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(57): warning C4477: 'scanf' : 서식 문자열 '%c'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(57): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(90): error C2371: 'main': 재정의. 기본 형식이 다릅니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(12): note: 'main' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(96): error C2374: 'N': 재정의. 여러 번 초기화했습니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(92): note: 'N' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(101): error C2374: 'N': 재정의. 여러 번 초기화했습니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(92): note: 'N' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(101): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(104): error C2374: 'N': 재정의. 여러 번 초기화했습니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(92): note: 'N' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(107): error C2086: 'int N': 재정의
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(92): note: 'N' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(107): error C2374: 'M': 재정의. 여러 번 초기화했습니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(104): note: 'M' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(111): error C2086: 'int N': 재정의
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(92): note: 'N' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(111): error C2374: 'M': 재정의. 여러 번 초기화했습니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(104): note: 'M' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(115): error C2374: 'N': 재정의. 여러 번 초기화했습니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(92): note: 'N' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(119): error C2086: 'int N': 재정의
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(92): note: 'N' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(119): error C2374: 'M': 재정의. 여러 번 초기화했습니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(104): note: 'M' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(123): error C2086: 'int N': 재정의
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(92): note: 'N' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(123): error C2374: 'M': 재정의. 여러 번 초기화했습니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(104): note: 'M' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(127): error C2374: 'N': 재정의. 여러 번 초기화했습니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(92): note: 'N' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(127): error C2374: 'M': 재정의. 여러 번 초기화했습니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(104): note: 'M' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(175): error C2065: 'K': 선언되지 않은 식별자입니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(190): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(190): error C2365: 'printf': 재정의: 이전 정의는 '함수'입니다.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(944): note: 'printf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(191): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(191): error C2365: 'scanf': 재정의: 이전 정의는 '함수'입니다.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(192): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(192): error C2365: 'printf': 재정의: 이전 정의는 '함수'입니다.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(944): note: 'printf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(193): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(193): error C2365: 'printf': 재정의: 이전 정의는 '함수'입니다.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(944): note: 'printf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(194): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(194): error C2365: 'printf': 재정의: 이전 정의는 '함수'입니다.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(944): note: 'printf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(201): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(201): error C2365: 'scanf': 재정의: 이전 정의는 '함수'입니다.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(202): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(202): error C2365: 'printf': 재정의: 이전 정의는 '함수'입니다.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(944): note: 'printf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(209): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(209): error C2371: 'ch': 재정의. 기본 형식이 다릅니다.
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(208): note: 'ch' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(210): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\user\documents\visual studio 2015\projects\mid\mid\연산자.cpp(210): error C2365: 'printf': 재정의: 이전 정의는 '함수'입니다.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(944): note: 'printf' 선언을 참조하십시오.
+  기초.cpp
+c:\users\user\documents\visual studio 2015\projects\mid\mid\기초.cpp(33): error C2086: 'char ch': 재정의
+  c:\users\user\documents\visual studio 2015\projects\mid\mid\기초.cpp(27): note: 'ch' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
